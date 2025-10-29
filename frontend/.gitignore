@@ -1,0 +1,15 @@
+# Node/React/Vite/Next
+node_modules/
+.npm/
+.pnpm-store/
+dist/
+build/
+.next/
+out/
+.cache/
+coverage/
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
